@@ -2,7 +2,7 @@
 const CONFIG = {
   nome: "Rayane",
   telefone: "11 99006-5287",
-  whatsapp: "5511999999999",
+  whatsapp: "5511990065287",
 
   elogios: [
     "Você tem um jeito que chama atenção sem nem precisar tentar.",
